@@ -1,17 +1,16 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import Header from './Header'
-import ImgSvg from './ImgSvg'
-import './all.sass'
+import React from "react";
+import Helmet from "react-helmet";
+import Header from "./Header";
+import ImgSvg from "./ImgSvg";
+import "./all.sass";
 
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="El dia que dije Hola Mundo" />
-    <Header></Header>
-    <ImgSvg></ImgSvg>
+    <Header />
+    <ImgSvg />
     <div>{children}</div>
   </div>
-)
+);
 
-
-export default TemplateWrapper
+export default TemplateWrapper;

@@ -6,7 +6,7 @@ description: Estoy haciendo mas pruebas
 tags:
   - ''
 ---
-**que pasa con esto??? **_Quiero ponerlo en cursiva_
+**que pasa con esto???** _Quiero ponerlo en cursiva_
 
 _`Y esto quiero ponerlo como si fuese un código`_
 

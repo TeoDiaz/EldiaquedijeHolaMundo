@@ -8,7 +8,7 @@ const TemplateWrapper = ({ children }) => (
     <Helmet title="El dia que dije Hola Mundo" />
     <Header />
     <ImgSvg />
-    <div>{children}</div>
+    <div className="preview">{children}</div>
   </div>
 );
 

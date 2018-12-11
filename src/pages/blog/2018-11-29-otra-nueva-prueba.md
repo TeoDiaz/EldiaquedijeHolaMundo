@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Otra nueva Prueba
 date: 2018-11-29T12:26:17.027Z
 description: Estoy haciendo mas pruebas
+pic: "../helloWorld.jpeg"
 tags:
   - ''
 ---

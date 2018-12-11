@@ -14,6 +14,7 @@ module.exports = {
         name: "uploads"
       }
     },
+    "gatsby-transformer-sharp",
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -29,7 +30,7 @@ module.exports = {
       }
     },
     "gatsby-plugin-sharp",
-    "gatsby-transformer-sharp",
+  
     {
       resolve: "gatsby-transformer-remark",
       options: {
